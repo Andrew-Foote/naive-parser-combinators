@@ -1,0 +1,1 @@
+The simplest, least optimized implementation of parser combinators in Python that I could do. A first draft of a more advanced library that I might release later, at some point.
